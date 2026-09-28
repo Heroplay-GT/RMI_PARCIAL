@@ -1,0 +1,10 @@
+{
+    "folders": [
+        { "name": "1. Libreria comun (EjemploRmiLibPromedio)", "path": "EjemploRmiLibPromedio" },
+        { "name": "2. Servidor (EjemploRmiServidorPromedio)", "path": "EjemploRmiServidorPromedio" },
+        { "name": "3. Cliente (EjemploRmiClientePromedio)", "path": "EjemploRmiClientePromedio" }
+    ],
+    "settings": {
+        "java.configuration.updateBuildConfiguration": "automatic"
+    }
+}
